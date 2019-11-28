@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiceLocationNtwrk</string>
+    <string name="buttonActivity_Text">Activity</string>
+    <string name="buttonThreadService_Text">Service</string>
+    <string name="buttonIntentService_Text">Intent Service</string>
+    <string name="distance_TextView">Distancia</string>
+    <string name="time_TextView">Tiempo</string>
+    <string name="update_Button">Actualizar</string>
+    <string name="defaultNumber">0.0</string>
+    <string name="timeUnit_TextView">ms</string>
+    <string name="distanceUnit_TextView">m</string>
+    <string name="buttonRegresar_Text">Regresar</string>
+</resources>
